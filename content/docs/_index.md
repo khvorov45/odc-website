@@ -1,6 +1,4 @@
 ---
-title: Docs
-type: book  # Do not modify.
+title: Documentation
+type: book
 ---
-
-Welcome to the _book_ template!
